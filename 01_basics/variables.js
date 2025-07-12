@@ -15,4 +15,4 @@ accountcity="Haldwani"
 
 
 // console.table[accountid,accountemail,accountPassword,accountcity]
-console.table([accountid,accountemail,accountPassword,accountcity])
+console.table([accountid,accountemail,accountPassword])
